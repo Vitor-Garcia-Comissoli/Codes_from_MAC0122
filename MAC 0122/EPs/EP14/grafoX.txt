@@ -1,0 +1,15 @@
+A B
+A C
+C G
+A G
+H A
+B C
+B H
+A2 B2
+A2 C2
+C2 G2
+A2 G2
+H2 A2
+B2 C2
+B2 H2
+
